@@ -7,6 +7,14 @@ body {
     background-color: #f6f8fc;
 }
 
+h1 {
+    text-align: center;
+    opacity: 50%;
+    background-color: aliceblue;
+    border-radius: 1rem;
+    padding: 0.5rem;
+}
+
 .content {
     width: 100vw;
     height: 100vh;
